@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Glioma Data Explorer",
+    "section": "",
+    "text": "Introduction\nThis is a placeholder for the main report.\nLater, this page will contain the Introduction, Methods, Results, and Conclusion.\n\n\nMethods\n(Methods section placeholder.)\n\n\nResults\n(Results section placeholder.)\n\n\nConclusion and Summary\n(Conclusion section placeholder.)"
+  },
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "About Me",
+    "section": "",
+    "text": "I am Tarun Mahesh, a second-year Master’s student at the University of Southern California, working towards a M.S. degree in Molecular Microbiology and Immunology at the Keck School of Medicine of USC.\nI conduct research at Dr. David Tran’s quantitative neuro-oncology research program, where I study the immune landscape of Glioblastoma Multiforme (GBM) using a combination of computational and wet-lab analytical pipelines.\nMy main research interests include\n\nCancer Immunology\nImmunotherapy Development\nCancer Neuroscience\nBench-to-Clinic Translation\nImmune-editing and Immune-modulation"
+  },
+  {
+    "objectID": "index.html#educational-background",
+    "href": "index.html#educational-background",
+    "title": "About Me",
+    "section": "Educational Background",
+    "text": "Educational Background\nUniversity of Southern California | Keck School of Medicine\nMaster of Science in Molecular Microbiology and Immunology\nAugust 2024- May 2026 (Expected)\nGPA: 4.0\nB. M. S. College of Engineering\nBachelor of Engineering in Biotechnology\nSeptember 2020- June 2024\nGPA: 4.0"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "About Me",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nMolecular Biology: PCR, Plasmid Cloning, Lentiviral Transduction, DNA/Protein Purification\nProtein Workflows: AKTA Chromatography, Immunoblotting, Immunoprecipitation, Protein Crystallization\nBioinformatics: R Programming, Matlab, PyMOL, AutoDock\nCell Biology and Animal Handling: Mammalian differentiated/stem cell culture, Flow-Cytometry (FACS), Mouse Stereotactic Surgery, MRI, Cryosectioning, Histology\nAnalytical Techniques: FTIR, UV-Vis, HPLC"
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "About Me",
+    "section": "Current Projects",
+    "text": "Current Projects\nDecoding the Master Regulators of Lymphocyte Trafficking to the Glioblastoma Multiforme (GBM) Tumor Site\nDevelopment of an AAV gene therapy immunotherapy for the treatment of glioblastoma"
+  },
+  {
+    "objectID": "index.html#past-projects",
+    "href": "index.html#past-projects",
+    "title": "About Me",
+    "section": "Past Projects",
+    "text": "Past Projects\nOptimization of Bioethanol Production and Mathematical Modeling of Fermentation Kinetics"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "About Me",
+    "section": "Work Experience",
+    "text": "Work Experience\nInstitute for Stem Cell Science and Regenerative Medicine (InStem) | Bangalore, India\nFebruary 2024- June 2024"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "About the Data",
+    "section": "",
+    "text": "Data Source\nThis page will describe where the data comes from and what each variable means.\n\n\nData Cleaning\nThis section will explain how the raw data was processed and cleaned.\n\n\nExploratory Analysis\nHere we will add some exploratory plots and summary statistics."
+  }
+]

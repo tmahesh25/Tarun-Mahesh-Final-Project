@@ -1,0 +1,16 @@
+---
+title: "About the Data"
+format: html
+---
+
+# Data Source
+
+This page will describe where the data comes from and what each variable means.
+
+# Data Cleaning
+
+This section will explain how the raw data was processed and cleaned.
+
+# Exploratory Analysis
+
+Here we will add some exploratory plots and summary statistics.

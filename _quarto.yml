@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Glioblastoma Data Explorer"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: data.qmd
+        text: "About the Data"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+
+
+

@@ -1,0 +1,21 @@
+---
+title: "Glioma Data Explorer"
+format: html
+---
+
+# Introduction
+
+This is a placeholder for the main report.\
+Later, this page will contain the Introduction, Methods, Results, and Conclusion.
+
+# Methods
+
+(Methods section placeholder.)
+
+# Results
+
+(Results section placeholder.)
+
+# Conclusion and Summary
+
+(Conclusion section placeholder.)
